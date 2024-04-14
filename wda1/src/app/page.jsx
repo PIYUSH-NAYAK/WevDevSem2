@@ -1,4 +1,4 @@
-import Image from "next/image";
+ import Image from "next/image";
 import Nav from "./mycomp/nav";
 import First from "./mycomp/first";
 import Footer from "./mycomp/footer";

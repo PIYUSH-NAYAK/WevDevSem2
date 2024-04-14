@@ -22,7 +22,7 @@ const Nav = () => {
       
     </div>
   <div className="flex-1">
-    <a className="btn btn-ghost text-xl">UNITRENDS</a>
+    <a href='#' className="btn btn-ghost text-xl">UNITRENDS</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
